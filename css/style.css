@@ -1,0 +1,103 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header, footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    color: #27ae60;
+}
+
+h3 {
+    color: #2980b9;
+    margin-bottom: 15px;
+}
+
+/* Wrapper */
+.wrap {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Main content */
+.main {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Form */
+.contact-form {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 400px;
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="password"],
+.contact-form input[type="submit"],
+.contact-form select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contact-form input[type="submit"] {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.contact-form input[type="submit"]:hover {
+    background-color: #2ecc71;
+}
+
+/* Form Labels */
+.contact-form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .wrap {
+        width: 90%;
+    }
+
+    .contact-form {
+        width: 100%;
+        padding: 15px;
+    }
+}
+
+.clear {
+    clear: both;
+}
