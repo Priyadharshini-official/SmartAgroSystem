@@ -63,6 +63,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Thanks to **[Code Infinite (Division of Satyam Soft Solutions)]** for providing the necessary resources for the development of this project.
 - Special thanks to the open-source communities for contributing to **PHP**, **MySQL**, and **Wireless Sensor Networks** technologies.
 
