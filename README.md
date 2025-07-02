@@ -3,6 +3,7 @@
 ## Overview
 
 The **Smart Agro System** is a real-time farm management solution that leverages **Wireless Sensor Networks (WSN)** for monitoring and managing various environmental and agricultural factors. The system allows farmers to monitor soil moisture, temperature, and other critical parameters remotely through an integrated platform. The system is designed to provide insights that can help optimize farming operations, leading to higher crop yield and efficient resource management.
+
  
 ## Features
 
