@@ -27,7 +27,7 @@ The **Smart Agro System** is a real-time farm management solution that leverages
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Priyadharshini-official/SmartAgroSystem.git
+    git clone https://github.com/Priyadharshini-official/SmartAgroSystem.git 
     ```
 
 2. Navigate into the project directory:
